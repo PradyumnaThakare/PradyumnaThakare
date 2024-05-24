@@ -11,10 +11,10 @@ Highly skilled and detail-oriented **Computer Engineering student** with experti
 - ⚡ Fun fact: **I love solving complex coding challenges and playing video games**.
 
 ## 🔧 Technical Skills
-![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Java%20%7C%20Oracle%20SQL%20%7C%20PL%2FSQL%20%7C%20XML-brightgreen)
-![Front End](https://img.shields.io/badge/Front%20End-HTML%20%7C%20JavaScript%20%7C%20CSS-brightgreen)
-![Databases](https://img.shields.io/badge/Databases-Firebase%20%7C%20Oracle-brightgreen)
-![Version Control](https://img.shields.io/badge/Version%20Control-Git-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Java%20%7C%20Oracle%20SQL%20%7C%20PL%2FSQL%20%7C%20XML-lightgrey)
+![Front End](https://img.shields.io/badge/Front%20End-HTML%20%7C%20JavaScript%20%7C%20CSS-lightgrey)
+![Databases](https://img.shields.io/badge/Databases-Firebase%20%7C%20Oracle-lightgrey)
+![Version Control](https://img.shields.io/badge/Version%20Control-Git-lightgrey)
 
 ## 🌟 Soft Skills
 - **Time management**
