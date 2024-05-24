@@ -49,7 +49,6 @@ Highly skilled and detail-oriented **Computer Engineering student** with experti
 ## 📚 Projects
 ### Netflix Clone
 ![Project Badge](https://img.shields.io/badge/Project-Netflix%20Clone-blue)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaThakare&repo=Netflix-Clone&theme=radical)](https://github.com/PradyumnaThakare/Netflix-Clone)
 
 - Redesigned the Netflix SAAS application with several new features, including scrollable containers for a better user experience.
 - Utilized the TMDB REST API to load movie names, thumbnails, and movie trailer links dynamically.
@@ -58,14 +57,12 @@ Highly skilled and detail-oriented **Computer Engineering student** with experti
 
 ### Library Management System
 ![Project Badge](https://img.shields.io/badge/Project-Library%20Management%20System-blue)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaThakare&repo=Library-Management-System&theme=radical)](https://github.com/PradyumnaThakare/Library-Management-System)
 
 - Developed a software application to help librarians manage their collections efficiently, utilizing C++, Data Structures, and OOP concepts.
 - Implemented features such as checkout, return, search, reports, and user and book management.
 
 ### PabloTheGame
 ![Project Badge](https://img.shields.io/badge/Project-PabloTheGame-blue)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaThakare&repo=PabloTheGame&theme=radical)](https://github.com/PradyumnaThakare/PabloTheGame)
 
 - Created a single-player shooting game inspired by the Netflix series Narcos, featuring three levels with increasing difficulty and AI-driven enemies.
 
