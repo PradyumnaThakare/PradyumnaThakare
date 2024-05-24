@@ -46,26 +46,6 @@ Highly skilled and detail-oriented **Computer Engineering student** with experti
 - **Global Public School** - 12th HSC, CGPA: 8.2 (2018-2020)
 - **Wisdom High International School** - 10th ICSE, CGPA: 9.81 (2017-2018)
 
-## 📚 Projects
-### Netflix Clone
-![Project Badge](https://img.shields.io/badge/Project-Netflix%20Clone-blue)
-
-- Redesigned the Netflix SAAS application with several new features, including scrollable containers for a better user experience.
-- Utilized the TMDB REST API to load movie names, thumbnails, and movie trailer links dynamically.
-- Implemented user functionality to add movies to their watchlist, updated the header, and integrated complete authentication with Firebase.
-- Integrated Stripe connectivity for membership payments, enhancing user convenience.
-
-### Library Management System
-![Project Badge](https://img.shields.io/badge/Project-Library%20Management%20System-blue)
-
-- Developed a software application to help librarians manage their collections efficiently, utilizing C++, Data Structures, and OOP concepts.
-- Implemented features such as checkout, return, search, reports, and user and book management.
-
-### PabloTheGame
-![Project Badge](https://img.shields.io/badge/Project-PabloTheGame-blue)
-
-- Created a single-player shooting game inspired by the Netflix series Narcos, featuring three levels with increasing difficulty and AI-driven enemies.
-
 ## 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
