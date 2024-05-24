@@ -45,9 +45,3 @@ Highly skilled and detail-oriented **Computer Engineering student** with experti
 - **Savitribai Phule Pune University** - BE Computer Engineering, CGPA: 9.22 (2020-2024)
 - **Global Public School** - 12th HSC, CGPA: 8.2 (2018-2020)
 - **Wisdom High International School** - 10th ICSE, CGPA: 9.81 (2017-2018)
-
-## 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🐱‍💻 Fun Section
-![Jokes](https://readme-jokes.vercel.app/api?theme=radical)
