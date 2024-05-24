@@ -16,15 +16,6 @@ Highly skilled and detail-oriented **Computer Engineering student** with experti
 ![Databases](https://img.shields.io/badge/Databases-Firebase%20%7C%20Oracle-lightgrey)
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git-lightgrey)
 
-## 🌟 Soft Skills
-- **Time management**
-- **Communication**
-- **Adaptability**
-- **Problem-solving**
-- **Teamwork**
-- **Work ethic**
-- **Interpersonal skills**
-
 ## 🚀 Experience
 ### Application Developer Intern | Mastek
 **Jan 2024 – Apr 2024**
