@@ -1,4 +1,4 @@
-# Hi there, I'm Pradyumna Thakare 👋
+# Hi there, I'm Pradyumna Thakare 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PradyumnaThakare&color=blue)
 
