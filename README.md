@@ -66,12 +66,6 @@ Highly skilled and detail-oriented **Computer Engineering student** with experti
 
 - Created a single-player shooting game inspired by the Netflix series Narcos, featuring three levels with increasing difficulty and AI-driven enemies.
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradyumnaThakare&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradyumnaThakare&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradyumnaThakare&theme=radical)
-
-
 ## 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
