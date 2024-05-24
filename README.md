@@ -1,6 +1,6 @@
 # Hi there, I'm Pradyumna Thakare 
 
-![Profile Views](https://komarev.com/ghpvc/?username=PradyumnaThakare&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=PradyumnaThakare&color=lightgrey)
 
 ## About Me
 Highly skilled and detail-oriented **Computer Engineering student** with expertise in **C++, Java, Oracle SQL, and PL/SQL**. Achieved a **25% improvement in bit-rate at IIT Bombay**, and proven track record of optimizing processes at Mastek. With hands-on experience in software management and database systems, I’m well-prepared to excel in Software Developer roles.
